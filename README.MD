@@ -5,10 +5,10 @@ Este é um projeto de um **teclado virtual de música** feito utilizando JavaScr
 ## 📂 Acesso ao Projeto
 
 Você pode acessar a versão online do projeto aqui:  
-🔗 [Piano Simulator Online](https://jenacarry.github.io/js-music-keyboard-virtual/)
+🔗 [Piano Simulator Online](https://jenalul.github.io/music-keyboard-virtual-dio/)
 
 Você pode acessar o código-fonte no GitHub:  
-🔗 [Repositório Piano Simulator no GitHub](https://jenalul.github.io/music-keyboard-virtual-dio/)
+🔗 [Repositório Piano Simulator no GitHub](https://github.com/Jenalul/music-keyboard-virtual-dio)
 
 ## Funcionalidades
 
