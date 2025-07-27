@@ -8,7 +8,7 @@ Você pode acessar a versão online do projeto aqui:
 🔗 [Piano Simulator Online](https://jenacarry.github.io/js-music-keyboard-virtual/)
 
 Você pode acessar o código-fonte no GitHub:  
-🔗 [Repositório Piano Simulator no GitHub](https://github.com/JenaCarry/js-music-keyboard-virtual)
+🔗 [Repositório Piano Simulator no GitHub](https://jenalul.github.io/music-keyboard-virtual-dio/)
 
 ## Funcionalidades
 
@@ -27,5 +27,5 @@ Você pode acessar o código-fonte no GitHub:
 1. Clone o repositório:
 
     ```bash
-    git clone https://github.com/JenaCarry/js-music-keyboard-virtual.git
+    git clone https://github.com/Jenalul/music-keyboard-virtual-dio.git
     ```
